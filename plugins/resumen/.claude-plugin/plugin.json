@@ -1,0 +1,7 @@
+{
+  "name": "resumen",
+  "version": "0.1.0",
+  "description": "Comando /resumen que resume el estado de la sesión en español",
+  "author": { "name": "Josse" },
+  "license": "MIT"
+}

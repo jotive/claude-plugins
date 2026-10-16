@@ -1,0 +1,11 @@
+{
+  "name": "jotive",
+  "owner": { "name": "Josse", "url": "https://github.com/jotive" },
+  "plugins": [
+    {
+      "name": "resumen",
+      "source": "./plugins/resumen",
+      "description": "Comando /resumen que resume el estado de la sesión en español"
+    }
+  ]
+}
